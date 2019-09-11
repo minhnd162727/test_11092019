@@ -1,0 +1,86 @@
+#back_1{z-index: 0;width: 1330px;height: 50px;border-bottom: 1px solid #dadad5;background-color:white;position: relative;;margin-right:auto;margin-left: auto;margin-top: 0px}
+	#logo_1{z-index: 1;position: relative;font-weight: 700;font-size: 30px;margin-left: 50px;letter-spacing: -1px}
+	#logo_2{z-index: 1;position: relative;font-weight: 700;font-size: 30px;margin-left: -8px;color: #2b54df;letter-spacing: -1px}
+	#logo_3{z-index: 1;position: relative;margin-left: 1150px;margin-top: -20px}
+	#num_3{z-index: 1;width: 10px;height: 10px;position: relative;font-weight: 700;font-size: 30px;margin-left: 1162px;margin-top:-35px ;background-color: #df2b34;border-radius:50%}
+	#logo_4{z-index: 1;position: relative;margin-left: 1190px;margin-top: -7px}
+	#num_4{z-index: 1;width: 10px;height: 10px;position: relative;font-weight: 700;font-size: 30px;margin-left: 1200px;margin-top:-35px ;background-color: #df2b34;border-radius:50%}
+	.text_1{color: white;font-size: 8px;text-align: center}
+	#image_1{z-index: 1;width: 30px;height: 30px;position: relative;font-weight: 700;font-size: 30px;margin-left: 1230px;margin-top:-35px ;background-color: #df2b34;border-radius:50%}
+#menu_1{width: 30px;height: 400px;;background-color: white;padding: 10px;float: left;}
+	.image_2{z-index: 2;width: 25px;height: 25px;position: relative;margin-bottom: 10px}
+	#item_menu_1{margin-top:-23px }
+	#text_2{font-size: 22px;text-align: center;font-weight: 500}
+	#text_3{font-size:22px;text-align: center;margin-top:0px}
+	#item_menu_2{width: 25px;height:25px;border: 2px solid black;margin-top:-10px ;border-radius:50%}
+#menu_2{width: 200px;height:20px ;border:1px solid rgb(218, 212, 212);border-width: 0px 1px 1px 1px ;background-color: white;padding: 10px;float: left;;}
+	#image_3{z-index: 1;width: 25px;height: 25px;position: relative;margin-left: 10px;margin-top:-20px ;background-color: #b1a9a9;border-radius:50%}
+	#text_5{z-index: 2;position: relative;width: 80px;float: left;font-size: 12px;padding-top: 2px;margin-top: -20px;margin-left: 35px;text-align: center;font-weight: 700}
+	#text_4{font-size: 18px;padding-top: 2px;color:white;text-align: center;font-weight: 500s}
+	#bg_image_4{z-index:3;position: relative;margin-left: 180px;margin-top:-20px }
+	#image_4{width: 20px;height: 20px;}
+
+#menu_3{width: 1040px;height:20px ;border:1px solid rgb(218, 212, 212);border-width: 0px 1px 1px 0px ;background-color: white;padding: 10px;float: left;}
+	#text_8-1{z-index: 2;position: relative;width: 100px;float: left;color: #056baa;font-family: Arial, Helvetica, sans-serif;font-size: 12px;padding-top: 0px;margin-top: 0px;margin-left: 0px;font-weight: 200}
+	#bg_image_5{z-index: 1;position: relative;width: 20px;height: 20px;margin-left: 700px;margin-top: 0px}
+	#image_5{width: 20px;height: 20px}
+	#bg_image_6{z-index: 1;position: relative;width: 20px;height: 20px;margin-left: 730px;margin-top: -23px}
+	#image_6{width: 27px;height: 27px}
+	#text_6{z-index: 2;position: relative;width: 20px;float: left;font-size: 12px;padding-top: 7px;margin-top: -20px;margin-left: 660px;text-align: center;font-weight: 700}
+	#search{width: 170px;height: 20px;}
+	#bg_search{z-index: 2;width: 150px;height: 20px;border-bottom: 1px solid #dadad5;background-color:white;position: relative;margin-left:785px;margin-top: -20px}
+	#bg_image_7{z-index: 1;position: relative;width: 20px;height: 20px;margin-left: 960px;margin-top: -20px}
+	#image_7{width: 20px;height: 20px}
+#menu_friend_1{width: 200px ;float: left;}	
+	#menu_fr_1{width: 200px;height:115px ;border:1px solid rgb(218, 212, 212);border-width: 0px 1px 1px 1px ;background-color: white;padding: 10px;float: left;}	
+		.line_1{width: 200px;height: 20px;margin-left: 0px;margin-top: 0px;padding: 5px}
+		#text_7{z-index: 2;position: relative;width: 200px;float: left;color: #817a7a;font-family: Arial, Helvetica, sans-serif;font-size: 12px;padding-top: 0px;margin-top: 0px;margin-left: 0px;font-weight: 200}
+		#bg_image_8{z-index: 1;position: relative;width: 20px;height: 20px;margin-left: 180px;margin-top: -3px}
+		#image_8{width: 10px;height: 10px}
+		#line_2{width: 190px;height: 16px;margin-left: 0px;margin-top: 0px;padding: 5px;background-color: #e0d8d8}
+		#text_8{z-index: 2;position: relative;width: 100px;float: left;color: #056baa;font-family: Arial, Helvetica, sans-serif;font-size: 12px;padding-top: 0px;margin-top: 0px;margin-left: 0px;font-weight: 200}
+		#text_9{z-index: 2;position: relative;width: 100px;float: left;color: #817a7a;font-family: Arial, Helvetica, sans-serif;font-size: 12px;padding-top: 0px;margin-top: 0px;margin-left: 0px;font-weight: 200}
+		#num_5{z-index: 1;width: 10px;height: 10px;position: relative;font-weight: 700;font-size: 30px;margin-left: 180px;margin-top:-5px ;background-color: #df2b34;border-radius:50%}
+	#menu_fr_2{width: 200px;height: 350px;border:1px solid rgb(218, 212, 212);border-width: 0px 1px 1px 1px ;background-color: white;padding: 10px;float: left;}	
+		.line_2{width: 200px;height: 40px;margin-left: 0px;margin-top: 0px;padding: 5px}
+			#bg_image_9{z-index: 4;position: relative;width: 20px;height: 20px;margin-left: 0px;margin-top: 0px}
+			#image_9{width: 30px;height: 30px;font-weight: 700;font-size: 30px;margin-top:0px ;border-radius:50%}
+			#bg_image_10{z-index: 4;position: relative;width: 7px;height: 7px;margin-left: 20px;margin-top: 0px;background-color: rgb(45, 185, 96);border: 2px solid white;border-radius: 50%}
+			#text_10{z-index: 2;position: relative;width: 100px;float: left;color:black;font-family: Arial, Helvetica, sans-serif;font-size: 12px;padding-top: 0px;margin-top: -30px;margin-left: 45px;font-weight: 200}
+			#text_11{z-index: 2;position: relative;width: 100px;float: left;color:rgb(192, 182, 182);font-family: Arial, Helvetica, sans-serif;font-size: 10px;padding-top: 0px;margin-top: -13px;margin-left: 45px;font-weight: 200}
+			#num_6{z-index: 1;width: 10px;height: 10px;position: relative;font-weight: 700;font-size: 30px;margin-left: 180px;margin-top:-35px ;background-color: #df2b34;border-radius:50%}
+#content{width: 800px ;height: 507px;;float: left; background-color: rgb(240, 246, 247);margin-left: 22px}
+	#c-line-1{width: 760px;border-top: 1px solid #a09898 ;height: 100px;margin-left: 20px;margin-top: 100px }
+	#text_12{width: 120px;float: left;color:rgb(143, 132, 132);font-family: Arial, Helvetica, sans-serif;font-weight: 200;font-size: 11px;text-align: center}
+	#bg-text-12{z-index: 2;position: relative;width: 120px;float: left;background-color: rgb(240, 246, 247);padding-top: 0px;margin-top: -20px;margin-left: 350px;}
+	#image_11{z-index: 1;width: 25px;height: 25px;position: relative;margin-left: 10px;margin-top:-12px ;background-color: #b1a9a9;border-radius:50%}
+	#bg_image_11{z-index: 4;position: relative;width: 7px;height: 7px;margin-left: 25px;margin-top: -5px;background-color: rgb(45, 185, 96);border: 2px solid white;border-radius: 50%}
+	#text_13{z-index: 2;position: relative;width: 100px;float: left;color:rgb(192, 182, 182);font-family: Arial, Helvetica, sans-serif;font-size: 10px;padding-top: 0px;margin-top: -28px;margin-left: 95px;font-weight: 200}
+	#text_14{z-index: 2;position: relative;width: 300px;float: left;font-family: Arial, Helvetica, sans-serif;font-size: 12px;padding-top: 0px;margin-top: -5px;margin-left: 50px;line-height: 25px}
+	
+	#c-line-2{width: 760px;border-top: 1px solid #a09898 ;height: 300px;margin-left: 20px;margin-top: 0px }
+	#text_15{z-index: 2;position: relative;width: 700px;float: left;font-family: Arial, Helvetica, sans-serif;font-size: 12px;padding-top: 0px;margin-top: -5px;margin-left: 50px;line-height: 25px}
+	#line_3{width: 200px;height: 100px;margin-left: 0px;margin-top: 0px;padding: 5px}
+#list-member{width: 239px;height:486px ;border:1px solid rgb(218, 212, 212);border-width: 0px 1px 1px 1px ;background-color: white;padding: 10px;float: left;}	
+	#bg_image_12{z-index: 4;position: relative;width: 7px;height: 7px;margin-left: 25px;margin-top: -5px;background-color: rgb(45, 185, 96);border: 2px solid white;border-radius: 50%}
+	#text_16{z-index: 2;position: relative;width: 100px;float: left;color:black;font-family: Arial, Helvetica, sans-serif;font-size: 12px;padding-top: 0px;margin-top: -25px;margin-left: 45px;font-weight: 200}
+#foot{z-index: 0;width: 1330px;height: 50px;border: 1px solid #dadad5;border-width: 1px 1px 1px 1px ;background-color:white;position: relative;;margin-right:auto;margin-left: auto;margin-top: 547px}
+	#foot-1{width: 200px;height:50px ;border:1px solid rgb(218, 212, 212);border-width: 0px 1px 0px 1px ;background-color: white;padding: 0px 10px;float: left;margin-left: 48px}
+	#foot-1-1{margin-left: 0px;margin-top: 25px}
+	#bg_image_13{z-index: 4;position: relative;width: 20px;height: 20px;margin-left: 160px;margin-top: -26px}
+	#image_13{width: 17px;height: 17px;font-weight: 700;font-size: 30px;margin-top:0px ;border-radius:50%}
+	#bg_image_14{z-index: 4;position: relative;width: 20px;height: 20px;margin-left: 182px;margin-top: -20px}
+	#image_14{width: 17px;height: 17px;font-weight: 700;font-size: 30px;margin-top:0px ;border-radius:50%}
+
+	#foot-2{width: 30px;height:50px ;border:1px solid rgb(218, 212, 212);border-width: 0px 1px 0px 1px ;background-color: white;padding: 0px 10px;float: left;margin-left: -1px}
+	#text-17{z-index: 2;position: relative;width: 30px;color:rgba(161, 161, 161, 0.456) ;font-family: Arial, Helvetica, sans-serif;font-size: 35px;padding-top: 0px;margin-top: 7px;margin-left: 5px}
+	#text-18{z-index: 2;position: relative;width: 100px;color:rgba(161, 161, 161, 0.456) ;font-family: Arial, Helvetica, sans-serif;font-size: 15px;padding-top: 0px;margin-top: 17px;margin-left: 5px}
+	#foot-3{width: 988px;height:50px ;border:1px solid rgb(218, 212, 212);border-width: 0px 1px 0px 1px ;background-color: white;padding: 0px 10px;float: left;margin-left: -1px}
+	#bg_image_15{z-index: 4;position: relative;width: 20px;height: 20px;margin-left: 900px;margin-top: -30px}
+	#image_15{width: 17px;height: 17px;font-weight: 700;font-size: 30px;margin-top:0px }
+	#bg_image_16{z-index: 4;position: relative;width: 20px;height: 20px;margin-left: 935px;margin-top: -21px}
+	#image_16{width: 17px;height: 17px;font-weight: 700;font-size: 30px;margin-top:0px }
+	#bg_image_17{z-index: 4;position: relative;width: 20px;height: 20px;margin-left: 967px;margin-top: -19px}
+	#image_17{width: 17px;height: 17px;font-weight: 700;font-size: 30px;margin-top:0px }
+
+
